@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">292436170643</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">djs.game.circle</string>
+    <!-- leaderboard High Score -->
+    <string name="leaderboard_high_score" translatable="false">CgkIk6-3tMEIEAIQCQ</string>
+    <!-- leaderboard High Jumped Spikes -->
+    <string name="leaderboard_high_jumped_spikes" translatable="false">CgkIk6-3tMEIEAIQCg</string>
+    <!-- leaderboard High Revolutions -->
+    <string name="leaderboard_high_revolutions" translatable="false">CgkIk6-3tMEIEAIQCw</string>
+    <!-- leaderboard Total Games -->
+    <string name="leaderboard_total_games" translatable="false">CgkIk6-3tMEIEAIQDA</string>
+    <!-- leaderboard Total Scores -->
+    <string name="leaderboard_total_scores" translatable="false">CgkIk6-3tMEIEAIQDQ</string>
+    <!-- leaderboard Total Jumped Spikes -->
+    <string name="leaderboard_total_jumped_spikes" translatable="false">CgkIk6-3tMEIEAIQDg</string>
+    <!-- leaderboard Total Revolutions -->
+    <string name="leaderboard_total_revolutions" translatable="false">CgkIk6-3tMEIEAIQDw</string>
+</resources>
